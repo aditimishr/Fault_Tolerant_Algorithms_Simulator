@@ -579,6 +579,8 @@ class Network_Simulator_Main_Page(tk.Tk):
 
 
 # application start
+
+print("Hello")
 simulator = Network_Simulator_Main_Page()
 simulator.geometry("580x580")
 simulator.mainloop()
